@@ -1,0 +1,22 @@
+div {
+	 
+    
+    border: 5px solid red;
+ 
+    background-color: yellow;
+    margin: 200px;
+   
+}
+
+p {
+
+	 border-style: dotted;
+	 padding: 10px 0px ;
+	 margin: 100px 100px 100px 100px;
+    
+    text-align: center;
+    background-color: #5076ff;
+
+
+  
+}
